@@ -78,5 +78,5 @@ Basta dar um duplo clique no arquivo [`index.html`](index.html) para abrir em qu
    - `logo.gif`
    - `logo.png`
 4. Em *"Commit changes"*, escreva:  
-   `Atualizar todos os 6 bordados reais do mostruário: Patch Velcro, Grande Formato, Corporativo, etc.`
+   `Atualizar index.html: cabeçalho limpo com logo, bordado e 14 anos no mercado, layout sem poluição.`
 5. Clique no botão verde **"Commit changes"**.
